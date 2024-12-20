@@ -24,7 +24,7 @@ import zipfile
 import shutil
 from packaging import version
 
-CURRENT_VERSION = "1.0.0"
+CURRENT_VERSION = "1.0.1"
 GITHUB_REPO = "siam500561/python_splitter"
 
 
