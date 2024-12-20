@@ -53,7 +53,7 @@ class UpdateChecker(QThread):
 class PDFSplitter(QMainWindow):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("Splitter")
+        self.setWindowTitle("Splitter Updated")
         self.setFixedSize(500, 450)
         # Set window icon
         self.setWindowIcon(QIcon("logo.ico"))
